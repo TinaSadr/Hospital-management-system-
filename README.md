@@ -14,10 +14,10 @@ The system is designed to improve hospital operational efficiency through an int
 - Billing system
 - Laboratory test tracking
 
-## Technologies Used
+## Technologies & Tools
 - SQL
 - MySQL
-- Relational Database Design
+- MySQL Workbench
 
 ## Concepts Applied
 - Database normalization
@@ -25,6 +25,12 @@ The system is designed to improve hospital operational efficiency through an int
 - CRUD operations
 - Relational schema design
 - Data integrity constraints
+
+ ## Entity Relationship Diagram
+
+The following ER diagram illustrates the relational database structure and entity relationships used in the Hospital Management System.
+
+![ER Diagram](hospital-management-diagram.jpeg)
 
 ## Database Entities
 - Patients
